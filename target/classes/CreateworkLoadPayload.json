@@ -1,0 +1,9 @@
+{
+  "workspace": {
+    "name": "From File",
+    "description": "sending this payload from .json file instead of string",
+    "type": "personal"
+  }
+}
+
+{workspace={name=From hashmap Object, description=Adding from hashmap with nested object, type=personal}}
